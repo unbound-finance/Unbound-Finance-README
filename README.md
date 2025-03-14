@@ -3,7 +3,6 @@
 This repository contains key Unbound Finance announcements along with their respective tweet links. Screenshots for each announcement are stored in the `./screenshots/` folder for easy reference.
 
 ## 🔗 Key Announcements
-# 2022
 ### Unbound partners with Router Protocol
 🔗 [View Tweet](https://x.com/routerprotocol/status/1581991668496334854)
 
