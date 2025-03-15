@@ -1,4 +1,18 @@
-# Unbound Finance Journey
+# Unbound Finance 
+
+# Description
+Unbound Finance is a novel, non-custodial lending platform, driven towards enabling newer and better opportunities of yield with a view to improving the overall capital efficiency of the DeFi ecosystem. Through synthetic assets like UND stablecoin, Unbound aims to unlock the liquidity available in DeFi DEXs and to enable the easy flow of this liquidity from one chain to another without actually removing it.
+
+## The key highlights of protocol are as follows :
+
+Interest-free borrowing: Unbound does not charge any interest on the borrowed UND.
+Perpetual borrowing: At Unbound, borrowers have unlimited maturities. Users can unlock the underlying collateral any time by simply paying off the outstanding debt.
+Stablecoin UND: UND is the first flagship product of the Unbound protocol. It is a decentralized, cross-chain stablecoin designed to be native to the AMM space.
+Factory Smart Contracts: Unbound makes use of liquidity lock contracts that are permissionless and support EVM-based AMMs like Uniswap, Balancer, Curve, SushiSwap and the like.
+Collateralizing concentrated liquidity positions: Unbound is one of the first protocols that allows concentrated liquidity positions to be used as collateral for borrowing synthetic crypto assets such as UND stablecoin.
+
+### Unbound finance Whitepaper
+🔗 [View whitepaper](https://wiki.unbound.finance/)
 
 ## Unbound Finance Roadmap
 
