@@ -1,6 +1,6 @@
-# Unbound Finance 
+# Unbound Finance Journey
 
-# Unbound Finance Roadmap
+## Unbound Finance Roadmap
 
 ## 2020
 - **March 2020** - Research and ideation for Unbound begins.
