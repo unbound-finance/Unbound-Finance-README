@@ -196,5 +196,8 @@ Collateralizing concentrated liquidity positions: Unbound is one of the first pr
 ![DAO Live](screenshots/unbounddaolive.png)
 
 
+Media Coverage
+
+https://beincrypto.com/unbound-finance-raises-5-8m-improve-defi-liquidity-provider-token-efficiency/
 
 © Unbound Finance 2025
