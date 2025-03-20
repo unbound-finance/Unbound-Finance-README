@@ -199,5 +199,10 @@ Collateralizing concentrated liquidity positions: Unbound is one of the first pr
 Media Coverage
 
 https://beincrypto.com/unbound-finance-raises-5-8m-improve-defi-liquidity-provider-token-efficiency/
+https://www.coindesk.com/tech/2023/04/03/unbound-finance-will-soon-allow-stablecoin-borrowing-against-uniswap-lp-positions-on-arbitrum
+https://cointelegraph.com/news/pantera-capital-and-arrington-xrp-capital-lead-5-8m-unbound-finance-raise
+https://www.prnewswire.com/news-releases/huobi-primelist-to-list-unb-backing-unbound-finances-aims-to-improve-liquidity-for-decentralized-exchanges-301439774.html
+
+
 
 © Unbound Finance 2025
