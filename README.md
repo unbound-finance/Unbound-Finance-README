@@ -169,60 +169,6 @@ Unbound Finance is a powerful catalyst in the DeFi space, enabling concentrated 
 
 ---
 
-# Unbound DAO Governance FAQs
-
-## 1. How does the Unbound DAO governance process work?
-Unbound employs a token-weighted voting system to make decisions about the project. Below is an overview of the process:
-
-1. **Proposal Release and Community Discussion**  
-   - Proposals are published in the **#Governance-proposals** channel on the Unbound .
-
-2. **Snapshot**  
-   - After discussion, the proposal moves to [Snapshot](https://snapshot.box/#/s:unboundfi.eth) for the official voting phase.
-
-3. **Weighted Voting**  
-   - Unbound uses a **token-weighted** approach, meaning the more UNB tokens you hold, the greater the weight of your vote.
-
-4. **Implementation**  
-   - After the **7-day voting period**, the core team proceeds with implementation based on the outcome of the vote.
-
----
-
-## 2. Which Unbound token is used for DAO participation?
-**UNB** is the token that governs Unbound Finance. Holding UNB allows you to vote and partake in governance decisions.
-
----
-
-## 3. Who can participate in the Unbound DAO?
-Anyone holding **UNB tokens** on the Ethereum network in a **Web 3 wallet** can participate.
-
----
-
-## 4. Where can I find proposals for the Unbound DAO?
-All Unbound governance proposals are posted on **[Snapshot](https://snapshot.box/#/s:unboundfi.eth)**. 
-
----
-
-## 5. Is there a minimum number of tokens required to participate in the DAO?
-No, there is **no minimum** token amount needed. However, votes are **token-weighted**, so having more UNB means your vote has a larger impact.
-
----
-
-## 6. Who can create proposals?
-Currently, **only the Unbound core team** can create proposals. 
-
----
-
-## 7. What is the duration of the voting period for proposals?
-The voting window is **7 days** once a proposal goes live on Snapshot.
-
----
-
-## 8. Can I use UNB tokens held on a CEX or those that are staked to vote in Unbound DAO?
-No. You must hold **UNB in a Web 3 wallet** to participate in DAO voting. Tokens held on a centralized exchange or staked in external contracts are **not eligible** for voting.
-
----
-
 ## Unbound Finance Roadmap
 
 ## 2020
@@ -403,14 +349,6 @@ No. You must hold **UNB in a Web 3 wallet** to participate in DAO voting. Tokens
 🔗 [View Tweet](https://x.com/unboundfinance/status/1790354780507759093)
 
 ![DAO Live](screenshots/unbounddaolive.png)
-
-
-# Media Coverage
-
-https://www.coindesk.com/tech/2023/04/03/unbound-finance-will-soon-allow-stablecoin-borrowing-against-uniswap-lp-positions-on-arbitrum
-
-https://www.prnewswire.com/news-releases/huobi-primelist-to-list-unb-backing-unbound-finances-aims-to-improve-liquidity-for-decentralized-exchanges-301439774.html
-
 
 
 © Unbound Finance 2025
