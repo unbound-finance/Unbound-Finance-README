@@ -350,5 +350,9 @@ Unbound Finance is a powerful catalyst in the DeFi space, enabling concentrated 
 
 ![DAO Live](screenshots/unbounddaolive.png)
 
+### Unbound Finance Stablecoin borrowing against uniswap LP Position on Arbitrum
+🔗 [View link](https://www.coindesk.com/tech/2023/04/03/unbound-finance-will-soon-allow-stablecoin-borrowing-against-uniswap-lp-positions-on-arbitrum)
+
+![Stablecoin borrowing](screenshots/stablecoinborrowing.png)
 
 © Unbound Finance 2025
